@@ -2,7 +2,9 @@
 
 > 零浏览器、零转换、零浪费 — 3 次 terminal 调用跑完一张图
 
-Hermes Agent 的 ComfyUI 技能包。把 ComfyUI 工作流执行从 3000 万 token 降到 **110 万命中 / 1000 未命中**。
+应用场景：本地或服务器同时安装**Hermes Agent**和**ComfyUI** 需远程生图
+
+Hermes Agent 的 ComfyUI 技能包。把 ComfyUI 工作流执行从 3000 万 token 降到 **百万内 一次生图仅需3分钱**。
 
 ## 效果对比
 
