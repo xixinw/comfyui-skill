@@ -31,7 +31,7 @@ hermes skill install ./comfyui-skill
 
 发送图片给 Hermes，然后说「跑 ComfyUI」即可。
 
-自动加载 `独立版六合一` 工作流，处理完成后返回结果图片。
+自动加载**投喂给Hermes的工作流文件**，处理完成后返回结果图片。
 
 ## 前置要求
 
@@ -44,6 +44,7 @@ hermes skill install ./comfyui-skill
 2. 点击右上角 **保存 → 保存（API 格式）**
 3. 将导出的 JSON 放入 `templates/` 目录
 4. 修改 SKILL.md 中的 `WORKFLOW_PATH` 路径
+5. 或者直接讲已导出的**API格式**的工作流文件投喂给你的Hermes，并说：**使用此API格式工作流配置生图**
 
 ## 自定义
 
