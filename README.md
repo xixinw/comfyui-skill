@@ -1,6 +1,6 @@
 # ComfyUI Skill
 
-> Hermes Agent 的 ComfyUI 极简执行器 — 自动配置，零隐私泄露，3000万token降到110万
+> Hermes Agent 的 ComfyUI 极简执行器 — 自动配置，零隐私泄露，3000万token降到百万内
 
 应用场景：本地或服务器同时安装 **Hermes Agent** 和 **ComfyUI** 需远程生图。
 
