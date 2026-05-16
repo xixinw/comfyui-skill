@@ -1,0 +1,6 @@
+{
+  "workflow_name": "示例工作流（通用）",
+  "load_image_id": "771",
+  "nodes": 23,
+  "note": "请用你自己的工作流替换此文件。在 ComfyUI 中：保存 → 保存（API 格式）"
+}
